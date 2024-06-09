@@ -62,7 +62,7 @@ export const Header = () => {
         <div>
           <button></button>
           <button></button>
-          <div className="h-10 w-10 rounded-full mt-[-20px] bg-cover bg-center" style={{backgroundImage: "url('https://media.istockphoto.com/id/1386479313/es/foto/feliz-mujer-de-negocios-afroamericana-millennial-posando-aislada-en-blanco.jpg?s=612x612&w=0&k=20&c=JP0NBxlxG2-bdpTRPlTXBbX13zkNj0mR5g1KoOdbtO4=')"}}> </div>
+          <div className="h-10 w-10  rounded-full mt-[-20px] bg-cover bg-center" style={{backgroundImage: "url('https://media.istockphoto.com/id/1386479313/es/foto/feliz-mujer-de-negocios-afroamericana-millennial-posando-aislada-en-blanco.jpg?s=612x612&w=0&k=20&c=JP0NBxlxG2-bdpTRPlTXBbX13zkNj0mR5g1KoOdbtO4=')"}}> </div>
         </div>
       </header>
     </>
